@@ -1,8 +1,8 @@
-
+import { Routes } from "./Routes";
 function App() {
   return (
     <div className="App">
-      <div>Hello World</div>
+      <Routes />
     </div>
   );
 }
